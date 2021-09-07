@@ -4,7 +4,7 @@
 This script parses the local (or online) anime release index (csv format) made by **Big Smoke**.  
 And uses it to help users find the best releases on nyaa.  
 The script can fuzzy match the name of anime entered, so there's no need to type it exactly or completely, try it!  
-As of now it only accepts the English name for searching.  
+You can search in both, english and japanese name of the anime.
 
 ### Credits
 Credits to JuanjoSalvador's Nyaapy. A python wrapper for scraping nyaa, you can find it [here](https://github.com/JuanjoSalvador/NyaaPy)
