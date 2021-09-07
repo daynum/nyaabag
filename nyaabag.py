@@ -19,7 +19,7 @@ def get_nyaa_data(name,group):
         print("Magnet Link: "+str(torrent.magnet))
         print("-----------------------------------------------------------")
         print()
-
+    input()
 
 """
 Network url is commented because we are using a local copy of it
