@@ -19,7 +19,6 @@ def get_nyaa_data(name,group):
         print("Magnet Link: "+str(torrent.magnet))
         print("-----------------------------------------------------------")
         print()
-    input()
 
 """
 Network url is commented because we are using a local copy of it
@@ -129,3 +128,4 @@ print("Fetching "+str(group[final_choice])+" release of "+str(anime_name_jap)+" 
 
 get_nyaa_data(anime_name,group[final_choice])
 get_nyaa_data(anime_name_jap,group[final_choice])
+input()
